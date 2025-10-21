@@ -39,4 +39,4 @@ COMMIT_MESSAGE.txt
 backup/root-backups/
 
 # optional: ignore the entire backup/ if you don't want backups in the repo
-# backup/
+backup/
