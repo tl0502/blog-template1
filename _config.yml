@@ -1,8 +1,8 @@
 # Site settings
-title: TXL Blog
+title: TVXL Blog
 SEOTitle: TVXL Blog
 header-img: img/home-bg.png
-email: tvxl@gmail.com
+email: tVXL301@gmail.com
 description: ""
 keyword: ""
 url: "https://tvxl.top"              # your host, for absolute URL
@@ -12,10 +12,10 @@ baseurl: ""         # empty when deploying to domain root
 
 # SNS settings
 RSS: false
-weibo_username:     TVXL
-zhihu_username:     TVXL
-github_username:    TVXL
-#twitter_username:  TVXL
+weibo_username:     
+zhihu_username:     
+github_username:    
+twitter_username:  T_L2003
 facebook_username:  TVXL
 
 
