@@ -1,8 +1,8 @@
 # Site settings
-title: Your Blog
-SEOTitle: 你的博客 | Your Blog
-header-img: img/home-bg.jpg
-email: huxpro@gmail.com
+title: TXL Blog
+SEOTitle: TVXL Blog
+header-img: img/home-bg.png
+email: tvxl@gmail.com
 description: ""
 keyword: ""
 url: "https://tvxl.top"              # your host, for absolute URL
@@ -12,11 +12,11 @@ baseurl: ""         # empty when deploying to domain root
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
-#twitter_username:  huxpro
-facebook_username:  huxpro
+weibo_username:     TVXL
+zhihu_username:     TVXL
+github_username:    TVXL
+#twitter_username:  TVXL
+facebook_username:  TVXL
 
 
 
@@ -65,14 +65,14 @@ duoshuo_share: true                     # set to false if you want to use Commen
 ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+ga_domain: tvxl.top
 
 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "写写代码，做做设计，看看产品。世界那么大，多玩玩看看。"
-sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "不知道写啥，曼波两声得了。"
+sidebar-avatar: /img/avatar.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
